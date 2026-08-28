@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# PyCharm
+.idea/
+
+# Environment
+.env
+
+# Logs
+*.log
+
+# Database
+*.db
+*.sqlite3
